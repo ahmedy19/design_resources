@@ -1,0 +1,132 @@
+@font-face {
+    font-family:'Sriracha';
+    src:url('/fonts/Sriracha.ttf') format('woff2');
+  }
+  
+@font-face {
+    font-family:'av1';
+    src:url('/fonts/AvenirLTStd-Light.otf') format('woff2');
+}
+
+@font-face {
+    font-family:'avblack';
+    src:url('/fonts/AvenirLTStd-Black.otf') format('woff2');
+}
+
+@font-face {
+    font-family:'intro';
+    src:url('/fonts/Intro.otf') format('woff2');
+}
+
+.headfonts{
+    font-family:'Sriracha';
+    color:#fff;
+}
+
+.colortable{
+    color:#001628 !important;
+}
+
+.dash{
+    background-color:#001628 !important;
+}
+
+.dashtext{
+    color:#fff !important;
+}
+
+.dashtext:hover{
+    color:#fff !important;
+}
+
+.navfont{
+    font-family:'av1' !important;
+    background-color:#6E2FAF !important;
+}
+
+.textmarg{
+    margin-bottom:35% !important;
+}
+
+.midfont{
+    font-family:'intro';
+    color:#fff;
+    letter-spacing:20px;
+}
+
+.navfcolo{
+    color:#001628 !important;
+}
+
+.midsec{
+    background-color:#A375DC;
+}
+
+.btncolor{
+    background-color:#6E2FAF;
+}
+
+.btncolor:hover{
+    background-color:#6E2FAF;
+}
+
+.midparag{
+    font-family:'av1' !important;
+    font-size:20px !important;
+    color:#333333;
+}
+
+.endbot{
+    background-color:#6E2FAF !important;
+    color:#fff;
+}
+
+.resoa{
+    color:#001628;
+    font-weight:bold;
+}
+
+.resoa:hover{
+    color:#001628;
+    text-decoration:none;
+}
+
+.abouthead{
+    font-family:'avblack' !important;
+}
+
+.aboutparag{
+    font-family:'av1' !important;
+    color:#333333;
+}
+
+.headIndexfo{
+    font-weight:600;
+    color:#333333;
+    letter-spacing:.5px;
+    line-height:2;
+}
+
+.btncolorIndex{
+    border-color:#6E2FAF;
+    background-color:#F1EBF7;
+    color:#333333;
+    font-weight:normal;
+    border-radius:20px;
+}
+
+.btncolorIndex:hover{
+    background-color:#6E2FAF;
+    font-weight:450;
+    border-radius:20px;
+}
+
+.emailink{
+    color:#333333;
+    text-decoration: none;
+}
+
+.emailink:hover{
+    color:#6220A5;
+    text-decoration: none;
+}
